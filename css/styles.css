@@ -1,0 +1,16 @@
+p 
+{
+    color: red;
+}
+
+h1
+{
+    size: 500px;
+
+}
+
+h2
+{
+    color: green;
+    font-variant-numeric: diagonal-fractions;
+}
